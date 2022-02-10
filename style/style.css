@@ -206,9 +206,7 @@ li{
     font-weight: 700;
     font-size: 16px;
 }
-/* .about img{
-    /* width: 100%;
-} */
+
 .images{
     width: 60%;
     margin: 0 auto;
@@ -406,7 +404,6 @@ input[type=text]:focus{
     outline: 1px solid #1d92ff;
 }
 input{
-    /* border: 1px solid #0A65B9; */
     border-radius: 5px;
     padding: 10px 0px;
     width: 100%;
@@ -749,6 +746,7 @@ form button{
         padding: 80px 40px;
     }
 }
+
 @media (min-width:1000px){
     .background .dots{
         left: 13%;
@@ -767,6 +765,7 @@ form button{
         margin-bottom: 50px;
     }
 }
+
 @media (min-width:1200px){
     .main-text p{
         width: 60%;
